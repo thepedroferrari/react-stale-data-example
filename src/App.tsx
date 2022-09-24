@@ -23,7 +23,7 @@ export const App = () => {
 
   return (
     <main>
-      <h1>Pokemon</h1>
+      <h1>Pokemon Example: Stale data in React</h1>
       <input
         type="text"
         value={name}
